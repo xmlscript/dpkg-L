@@ -1,0 +1,13 @@
+/.
+/etc
+/etc/init.d
+/etc/init.d/raspi-config
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/raspi-config
+/usr/share/doc/raspi-config/LICENSE
+/usr/share/doc/raspi-config/changelog.Debian.gz
+/usr/share/doc/raspi-config/sample_profile_d.sh
+/usr/bin
+/usr/bin/raspi-config

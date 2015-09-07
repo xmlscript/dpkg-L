@@ -1,0 +1,9 @@
+/.
+/etc
+/etc/network
+/etc/network/interfaces
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/raspberrypi-net-mods
+/usr/share/doc/raspberrypi-net-mods/changelog.Debian.gz
