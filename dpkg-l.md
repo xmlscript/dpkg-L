@@ -5,6 +5,15 @@ Desired=Unknown/Install/Remove/Purge/Hold
 eol
 eol
 eol
+EOL
+
+EOL
+
+EOL
+
+EOL
+
+EOL
 ||/ Name                                  Version                                 Architecture Description
 +++-=====================================-=======================================-============-==============================================================================
 ii  adduser                               3.113+nmu3                              all          add and remove users and groups
