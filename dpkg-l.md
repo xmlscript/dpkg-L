@@ -2,6 +2,9 @@
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
 |/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+eol
+eol
+eol
 ||/ Name                                  Version                                 Architecture Description
 +++-=====================================-=======================================-============-==============================================================================
 ii  adduser                               3.113+nmu3                              all          add and remove users and groups
